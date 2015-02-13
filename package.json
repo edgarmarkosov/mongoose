@@ -37,9 +37,4 @@
         "url":"https://github.com/learnboost/mongoose/issues/new"
       , "email": "mongoose-orm@googlegroups.com"
     }
-  , "repository": {
-        "type": "git"
-      , "url": "git://github.com/LearnBoost/mongoose.git"
-    }
-  , "homepage": "http://mongoosejs.com"
 }
